@@ -1,4 +1,4 @@
-#👋 Olá, mundo! Eu sou o Carlos Brito 🧑‍💻
+##👋 Olá, mundo! Eu sou o Carlos Brito 🧑‍💻
 
 💡 Desenvolvedor em construção | Estudante de Ciência da Computação na UNA Divinópolis  
 🚧 Atualmente explorando o universo Java ☕ no Full Stack Java  
