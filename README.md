@@ -23,7 +23,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 Estatísticas de Aprendizado
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CBritoDevE&layout=compact&theme=dracula)](https://github.com/CBritoDev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CBritoDev&layout=compact&theme=dracula)](https://github.com/CBritoDev/github-readme-stats)
 
 ## 📚 Atualmente Estudando
 - Arquitetura de Software
