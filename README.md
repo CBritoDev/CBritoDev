@@ -1,35 +1,32 @@
-# 👋 Olá, mundo! Eu sou o Carlos Brito 🧑‍💻
+# Olá, eu sou um Desenvolvedor Backend 👋
 
-💡 Desenvolvedor Java em formação | Estudante de Ciência da Computação @ UNA Divinópolis  
-🚧 Foco atual: Java Full Stack e Banco de Dados  
-📚 *"Em um mundo cheio de variáveis, seja uma constante"*
+Sou um desenvolvedor apaixonado por engenharia de software, com foco principal no ecossistema **C# / .NET**. Tenho um perfil de aprendizado acelerado e uma facilidade natural para me adaptar rapidamente a novas tecnologias e arquiteturas complexas. 
 
-## 🛠️ Tech Stack
+Meu objetivo diário é construir aplicações robustas, escaláveis e limpas, fugindo do "código espaguete" e aplicando boas práticas de mercado.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-</p>
+## 🛠️ Tecnologias e Ferramentas
 
-## 📊 Minhas Estatísticas
+Aqui está o meu cinto de utilidades principal:
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CBritoDev&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+* **Linguagem:** C#
+* **Framework:** .NET (Core / 8 / 9 / 10)
+* **Arquitetura:** Clean Architecture, SOLID, Design Patterns
+* **Banco de Dados:** PostgreSQL, SQL Server, Entity Framework Core
+* **Boas Práticas:** FluentValidation, Injeção de Dependência, Autenticação JWT
+* **Observabilidade:** Serilog, Tratamento Global de Exceções
 
-## 📫 Conecte-se comigo
+## 🚀 O que estou construindo no momento
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/cbritodev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:cbritodeveloper@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+Atualmente, estou desenvolvendo uma **API de Gerenciamento de Pedidos**, estruturada do zero com **Clean Architecture**. O foco deste projeto é aplicar conceitos avançados de back-end, como:
+* Separação estrita entre `Core` (Regras de Negócio) e `Web` (Apresentação).
+* Documentação automática e interativa com Swagger + XML Comments.
+* Interceptação de falhas com Middlewares customizados.
+* Consultas otimizadas e agnósticas de banco de dados usando LINQ.
+
+## 📫 Como me encontrar
+
+* **LinkedIn:** [https://linkedin.com/in/cbritodev]
+* **E-mail:** cbritodeveloper@gmail.com
+
+---
+*"Focar em resolver o problema da forma certa hoje, para não ter que reescrever amanhã."*
