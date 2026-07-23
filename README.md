@@ -1,32 +1,46 @@
-# Olá, eu sou um Desenvolvedor Backend 👋
+# Hi, I'm a Backend Developer 👋
 
-Sou um desenvolvedor apaixonado por engenharia de software, com foco principal no ecossistema **C# / .NET**. Tenho um perfil de aprendizado acelerado e uma facilidade natural para me adaptar rapidamente a novas tecnologias e arquiteturas complexas. 
+I'm a software developer passionate about software engineering, with a primary focus on the **C# / .NET** ecosystem. I learn quickly and adapt easily to new technologies, architectures, and development practices.
 
-Meu objetivo diário é construir aplicações robustas, escaláveis e limpas, fugindo do "código espaguete" e aplicando boas práticas de mercado.
+My goal is to build robust, scalable, and maintainable applications while following industry best practices and avoiding "spaghetti code."
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tech Stack
 
-Aqui está o meu cinto de utilidades principal:
+Here's my primary toolkit:
 
-* **Linguagem:** C#
+* **Language:** C#
 * **Framework:** .NET (Core / 8 / 9 / 10)
-* **Arquitetura:** Clean Architecture, SOLID, Design Patterns
-* **Banco de Dados:** PostgreSQL, SQL Server, Entity Framework Core
-* **Boas Práticas:** FluentValidation, Injeção de Dependência, Autenticação JWT
-* **Observabilidade:** Serilog, Tratamento Global de Exceções
+* **Architecture:** Clean Architecture, SOLID Principles, Design Patterns
+* **Databases:** PostgreSQL, SQL Server, Entity Framework Core
+* **Best Practices:** FluentValidation, Dependency Injection, JWT Authentication
+* **Observability:** Serilog, Global Exception Handling
 
-## 🚀 O que estou construindo no momento
+## 🚀 What I'm Currently Building
 
-Atualmente, estou desenvolvendo uma **API de Gerenciamento de Pedidos**, estruturada do zero com **Clean Architecture**. O foco deste projeto é aplicar conceitos avançados de back-end, como:
-* Separação estrita entre `Core` (Regras de Negócio) e `Web` (Apresentação).
-* Documentação automática e interativa com Swagger + XML Comments.
-* Interceptação de falhas com Middlewares customizados.
-* Consultas otimizadas e agnósticas de banco de dados usando LINQ.
+I'm currently developing an **Order Management API** from scratch using **Clean Architecture**. The project is designed to apply advanced backend concepts, including:
 
-## 📫 Como me encontrar
+* Clear separation between the **Core** (Business Rules) and **Web** (Presentation Layer).
+* Interactive API documentation with **Swagger** and **XML Comments**.
+* Centralized error handling through custom **Middleware**.
+* Optimized, database-agnostic queries using **LINQ**.
+* A clean, maintainable, and scalable project structure.
 
-* **LinkedIn:** [https://linkedin.com/in/cbritodev]
-* **E-mail:** cbritodeveloper@gmail.com
+## 🎯 What I'm Currently Learning
+
+I'm continuously improving my backend development skills by studying topics such as:
+
+* Advanced ASP.NET Core
+* Software Architecture
+* Design Patterns
+* Performance Optimization
+* Testing and Code Quality
+* Cloud and DevOps fundamentals
+
+## 📫 Connect With Me
+
+* **LinkedIn:** https://linkedin.com/in/cbritodev
+* **Email:** [cbritodeveloper@gmail.com](mailto:cbritodeveloper@gmail.com)
 
 ---
-*"Focar em resolver o problema da forma certa hoje, para não ter que reescrever amanhã."*
+
+> *"Solve today's problems the right way, so you don't have to rewrite them tomorrow."*
